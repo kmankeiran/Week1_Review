@@ -1,14 +1,10 @@
 footer { color: $footer-text-color; }
 
-nav {
-    background-color: pink;
-
-    ul {
+ul {
         margin: 0;
         padding: 0;
 
-        li { display: inline; 
+        li { display: inline; }
         
         a { text-decoration: none; }
-    }
 }
